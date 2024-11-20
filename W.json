@@ -1,0 +1,17 @@
+elements.yuanium = {
+
+	color: "#ff004f",
+
+	behavior: behaviors.POWDER,
+
+	category: "special",
+
+	state: "solid",
+
+	reactions: {
+
+		"water": { elem1: "graygoo", elem2: "random" },
+
+	}
+
+};
